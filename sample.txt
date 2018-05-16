@@ -1,2 +1,2 @@
-Sample text
+less sample text
 Even more sample text
